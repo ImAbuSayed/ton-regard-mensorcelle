@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-regard-mensorcelle/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ton Regard M'ensorcelle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-regard-mensorcelle/) |
+| **Get License** | [Music Rights & Licensing for Ton Regard M'ensorcelle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-regard-mensorcelle/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4417)
 
 ---
 
