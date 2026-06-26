@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ton Regard M'ensorcelle
+
+This log tracks the cryptographic history and versioning for the song **Ton Regard M'ensorcelle** (ton-regard-mensorcelle).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T19:47:31.064643 | `v1` | `05395c04f2eeced18c2f471dcfd1a2916d0a72e56b4d1346c745ad65dbc6a6e7` | `e73069d4df840ae77a481659db68c60e2db5be4bf8eae862a2e6a515f14b1f31` | `2026-06-26_ton-regard-mensorcelle-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
