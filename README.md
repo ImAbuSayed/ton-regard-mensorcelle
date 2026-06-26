@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-regard-mensorcelle/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ton Regard M'ensorcelle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-regard-mensorcelle/) |
+| **Get License** | [Secure Licensing Rights for Ton Regard M'ensorcelle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-regard-mensorcelle/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton regard m'ensorcelle, brise toutes mes défenses,
+> Sous les néons violets, on entre dans la transe.
+> Je perds tous mes repères quand tu danses pour moi,
+> Viens closer, baby, ce soir c'est toi et moi.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
